@@ -9,6 +9,7 @@ version 1.2 changelog - tool updates video: https://www.youtube.com/watch?v=RtFP
 Notes
 
 -If you are using the node with a live action plate you need to create a depth channel base on an ai model,
-for that you can use something like depthanything, see link below ⇩
+for that you can use something like depthanything
+
 https://github.com/rafaelperez/Depth-Anything-for-Nuke
 
