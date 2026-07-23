@@ -1,4 +1,4 @@
-# SHAKE3D - dimensional camera and object shake
+# SHAKE 3D - dimensional camera and object shake
 
 Tested on Nuke 16.0v2 and 15.2v1 at the moment.
 #
